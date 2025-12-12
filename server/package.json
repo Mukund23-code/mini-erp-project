@@ -1,6 +1,7 @@
 {
   "name": "mini-erp-server",
   "version": "1.0.0",
+  "description": "Backend for Mini ERP project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
